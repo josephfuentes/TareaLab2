@@ -1,4 +1,9 @@
-
+//Fuentes:
+//http://lazyfoo.net/tutorials/SDL/21_sound_effects_and_music/index.php
+//http://content.gpwiki.org/index.php/SDL_mixer:Tutorials:Playing_a_WAV_Sound_File
+//Recursos Usados:
+//http://soundbible.com/2069-Realistic-Punch.html
+//http://3.bp.blogspot.com/_urU_8705ON4/TL8PUxdnsLI/AAAAAAAAA6A/874XiNrkSSM/s1600/fondo-destellos.jpg
 #include<SDL2/SDL.h>
 #include<SDL2/SDL_image.h>
 #include<iostream>
